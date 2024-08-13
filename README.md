@@ -1,1 +1,1 @@
-# PowerBI_Project-Plant_Co._Performance_Report
+![Screenshot of the dashboard](assets/screenshot.png)
